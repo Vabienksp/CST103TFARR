@@ -1,1 +1,38 @@
-
+Who are you and what do you do?
+  We are Jackson Labs, we are a leader in biomedical research.
+Why are you selling the new product? 
+  We currently bus our employees, however with a gap in the electric bus industry, it would be difficult to switch to one. So we have made a new division: Jackson EV.
+How do you want the new product to be perceived in a website?
+  This product should be seen as innovative in the field. 
+What is the single most important thing visitors want from your site? For example: find new products, register for a course, join a mailing list. Note: Try to consider this from the customer's perspective. This is not about what you want for the company, i.e., more sales, but what your visitors want from the site.
+  Visitors will want to know about statistics and info on our products, and want a way to contact for purchase.
+What is the single most important thing you want to convey on your site? From the perspective of your company/org.
+  Our vehicles are better than those made by our competitors, and we lead the technology.
+Describe your target audience.
+  Transit Companies, Government Transit Departments, Schools, Transit Riders
+Who is your competition? (A competitive review should follow: look at three sites from similar or competing businesses. See where each website succeeds and fails.)
+  New Flyer - https://www.newflyer.com/buses/xcelsior-family/
+    EVs are not main focus, but easy to find
+    Sleek Design
+    Easy to Navigate
+    Plain Color Scheme
+  Proterra - https://www.proterra.com/
+    Laggy due to front page video
+    Easy to navigate
+    EVs are main focus
+  Thomas Built Buses - https://thomasbuiltbuses.com/school-buses/saf-t-liner-c2-jouley/
+    EVs are not main focus, and hard to find
+    Sleek Design
+    Promotes Diesel on front page
+Why should clients chose your products or services over the competition?
+  We believe that electric vehicles are the future, and it is our only focus. Our buses range from cheaper and still well made, to more expensive with state-of-the-art technology
+How will you judge if this is a successful website?
+  If I can hand the site to a random person and they are interested in the EVs, it is a good website.
+List three or more websites you like.
+  https://material.io/
+  https://discordapp.com/
+  https://www.blender.org/
+List three websites you don't like, and indicate why for each one.
+  https://www.kerbalspaceprogram.com/ - Is overly flashy
+  https://www.epicgames.com/ - Slow, hard to navigate
+  https://www.hannaford.com/ - Cramped, too much in one place
